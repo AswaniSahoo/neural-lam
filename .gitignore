@@ -1,4 +1,5 @@
 ### Project Specific ###
+analysis/
 wandb
 saved_models
 lightning_logs
