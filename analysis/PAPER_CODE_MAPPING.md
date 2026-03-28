@@ -377,7 +377,7 @@ embed(x_{≤t})                      grid_current_embedder (encoder path)
 
 ## 4. Critical Mappings for Proposal Writing
 
-When writing the GSoC proposal, use these mappings:
+When writing the GSoC proposal, i have to use these mappings:
 
 | Proposal Section | Paper Reference | Code Reference | Key Insight |
 |---|---|---|---|
